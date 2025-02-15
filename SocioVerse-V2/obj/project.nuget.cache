@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzgBd4I5lBc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chetan Soni\\Desktop\\New folder\\Socioverse\\SocioVerse-V2\\SocioVerse-V2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chetan Soni\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.36\\microsoft.aspnetcore.spaservices.extensions.6.0.36.nupkg.sha512",
+    "C:\\Users\\Chetan Soni\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.1\\microsoft.extensions.fileproviders.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Chetan Soni\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.1\\microsoft.extensions.fileproviders.physical.6.0.1.nupkg.sha512",
+    "C:\\Users\\Chetan Soni\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\Chetan Soni\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.1\\microsoft.extensions.primitives.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

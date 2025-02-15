@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SocioVerse-V2.props" />
+</Project>

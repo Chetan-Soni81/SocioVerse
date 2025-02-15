@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Chetan Soni\\Desktop\\New folder\\Socioverse\\SocioVerse-V2\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\Chetan Soni\\Desktop\\New folder\\Socioverse\\SocioVerse-V2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Chetan Soni\\Desktop\\New folder\\Socioverse\\SocioVerse-V2\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Chetan Soni\\Desktop\\New folder\\Socioverse\\SocioVerse-V2\\wwwroot\\main.5901d31206f18efa.js",
+      "PackagePath": "staticwebassets\\main.5901d31206f18efa.js"
+    },
+    {
+      "Id": "C:\\Users\\Chetan Soni\\Desktop\\New folder\\Socioverse\\SocioVerse-V2\\wwwroot\\polyfills.697b8822545d671b.js",
+      "PackagePath": "staticwebassets\\polyfills.697b8822545d671b.js"
+    },
+    {
+      "Id": "C:\\Users\\Chetan Soni\\Desktop\\New folder\\Socioverse\\SocioVerse-V2\\wwwroot\\runtime.00285116a9b7ab64.js",
+      "PackagePath": "staticwebassets\\runtime.00285116a9b7ab64.js"
+    },
+    {
+      "Id": "C:\\Users\\Chetan Soni\\Desktop\\New folder\\Socioverse\\SocioVerse-V2\\wwwroot\\styles.ef46db3751d8e999.css",
+      "PackagePath": "staticwebassets\\styles.ef46db3751d8e999.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SocioVerse-V2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SocioVerse-V2.props",
+      "PackagePath": "build\\SocioVerse-V2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SocioVerse-V2.props",
+      "PackagePath": "buildMultiTargeting\\SocioVerse-V2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SocioVerse-V2.props",
+      "PackagePath": "buildTransitive\\SocioVerse-V2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
