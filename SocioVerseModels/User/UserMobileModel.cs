@@ -7,7 +7,9 @@ namespace SocioVerseModels.User
         public string Mobile { get; set; } = string.Empty;
         public string CountryCode { get; set; } = string.Empty;
         public bool IsPrimary { get; set; }
+        public bool IsActive { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime UpdatedDate { get; set; }
+        public virtual UserModel? User { get; set; }
     }
 }
