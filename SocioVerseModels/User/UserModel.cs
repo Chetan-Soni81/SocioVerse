@@ -1,6 +1,9 @@
 
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace SocioVerseModels.User
 {
+    [Table("tbl_Users")]
     public class UserModel
     {
         public long UserID { get; set; }

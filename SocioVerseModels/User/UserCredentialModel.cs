@@ -1,4 +1,8 @@
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace SocioVerseModels.User {
+    [Table("tbl_UserCredentials")]
+
     public class UserCredentialModel {
         public long UserCredID { get; set; }
         public long UserID { get; set; }

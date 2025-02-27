@@ -1,4 +1,8 @@
-namespace SocioVerseModels.User {
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace SocioVerseModels.User 
+{
+    [Table("tbl_UserProfiles")]
     public class UserProfileModel {
         public int UserProfileID { get; set; }
         public int UserID { get; set; }

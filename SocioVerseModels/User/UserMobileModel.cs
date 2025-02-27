@@ -1,5 +1,8 @@
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace SocioVerseModels.User
 {
+    [Table("tbl_UserMobiles")]
     public class UserMobileModel
     {
         public int UserMobileID { get; set; }
